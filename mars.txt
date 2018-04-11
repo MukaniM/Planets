@@ -1,1 +1,2 @@
-Git is used to track changes
+Git is used to track change
+I hope itwill be fun to learn
