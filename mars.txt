@@ -3,5 +3,3 @@ Git is used to track change
 I hope itwill be fun to learn
 here we go again
 
-have added new stuff to this text file
-venus will now be considered as a base
